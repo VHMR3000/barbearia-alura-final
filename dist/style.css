@@ -1,0 +1,38 @@
+strong {color: #00FFFF;}
+em {color:#aa0202;}
+body{background: #FFBCD;}
+p {
+   text-align: center;
+} 
+
+.titulo-centralizado
+{text-align: center;
+border: 10px solid;}
+
+h1
+{text-align: center;
+border: 10px solid;
+}
+h2
+{text-aling:center}
+ul {display:inline-block;
+ vertical-aling: top;
+ width: 20%;
+margin-rigth: 15%}
+#missão{
+	font-size: 30px;}
+	#banner{width:100%;}
+.principal{background:#CCCCCC;
+padding: 30px}
+
+.titulo-principal
+     {padding-left: 20px;}
+
+
+.itens{font-style: italic}
+.beneficios{background: #FFFFFF;
+padding: 20px;}
+.imagenbeneficios{width:50%}
+p {
+	text-aling:center;
+ }
